@@ -1,8 +1,8 @@
-chi examples
+chi#examples
 ============
 
-* [custom-handler](https://github.com/go-chi/chi/blob/master/_examples/custom-handler/main.go) - Use a custom handler function signature
-* [custom-method](https://github.com/go-chi/chi/blob/master/_examples/custom-method/main.go) - Add a custom HTTP method
+# [custom-handler](https://github.com/go-chi/chi/blob/master/_examples/custom-handler/main.go) - Use a custom handler function signature
+# [custom-method](https://github.com/go-chi/chi/blob/master/_examples/custom-method/main.go) - Add a custom HTTP method
 * [fileserver](https://github.com/go-chi/chi/blob/master/_examples/fileserver/main.go) - Easily serve static files
 * [graceful](https://github.com/go-chi/chi/blob/master/_examples/graceful/main.go) - Graceful context signaling and server shutdown
 * [hello-world](https://github.com/go-chi/chi/blob/master/_examples/hello-world/main.go) - Hello World!
@@ -22,3 +22,4 @@ chi examples
 4. Open another terminal and use curl to send some requests to your example service,
    `curl -v http://localhost:3333/`
 5. Read <example>/main.go source to learn how service works and read comments for usage
+ 
